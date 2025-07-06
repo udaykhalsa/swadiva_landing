@@ -58691,7 +58691,7 @@ return new A.tw(new A.CT(A.pU(A.c([A.pX(A.ahl(new A.f7(B.d8,A.pU(A.c([new A.qU(A
 tD(a,b){var s=null,r=A.yj(20),q=A.c([new A.fL(0,B.ig,B.m.jT(0.03),B.Dr,12)],t.xq),p=A.a8V(B.ci.jT(0.25))
 return A.pX(A.pU(A.c([A.jE(a,A.xE().$3$color$fontSize$fontWeight(B.dr,18,B.cw),s),B.GU,A.jE(b,A.a8b().$3$color$fontSize$height(B.y,14,1.5),B.b3)],t.nA),B.aF),s,new A.ez(B.f7,s,p,r,q,s,B.aS),s,s,B.yy,280)},
 ON(){var s=null,r=B.dr.jT(0.07),q=A.yj(16),p=A.a8V(B.dr.jT(0.15))
-return A.pX(new A.f7(B.d8,A.pX(A.pU(A.c([A.jE("We\u2019re Launching Soon!",A.xE().$3$color$fontSize$fontWeight(B.ci,26,B.aZ),s),B.uH,A.jE("Our E-commerce platform is almost here.\nFor early access, connect with us on Instagram.\nLaunching soon on major marketplaces.",A.a8b().$3$color$fontSize$height(B.z,16,1.6),B.b3),B.GW,new A.zz(new A.Yw(),s,s,s,A.aiq(s,s,B.ci,s,s,s,s,s,s,s,s,s,B.yA,s,new A.cR(A.yj(32),B.p),s,s,s,s,s),s,s,!1,s,s,A.jE("DM Us on Instagram",A.xE().$2$color$fontSize(B.j,16),s),s)],t.nA),B.aF),s,new A.ez(r,s,p,q,s,s,B.aS),s,s,B.yB,s),s),s,s,s,s,B.ff,s)}}
+return A.pX(new A.f7(B.d8,A.pX(A.pU(A.c([A.jE("We\u2019re Launching Soon!",A.xE().$3$color$fontSize$fontWeight(B.ci,26,B.aZ),s),B.uH,A.jE("Our E-commerce platform is almost here.\nFor early access, connect with us on Instagram.\nLaunching soon on major marketplaces.",A.a8b().$3$color$fontSize$height(B.z,16,1.6),B.b3),B.GW,new A.zz(new A.Yw(),s,s,s,A.aiq(s,s,B.ci,s,s,s,s,s,s,s,s,s,B.yA,s,new A.cR(A.yj(32),B.p),s,s,s,s,s),s,s,!1,s,s,A.jE("Buy Now",A.xE().$2$color$fontSize(B.j,16),s),s)],t.nA),B.aF),s,new A.ez(r,s,p,q,s,s,B.aS),s,s,B.yB,s),s),s,s,s,s,B.ff,s)}}
 A.Yw.prototype={
 $0(){A.a88("https://www.instagram.com/swadiva.in/")},
 $S:0}
